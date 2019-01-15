@@ -4,5 +4,8 @@ public abstract class Funcionario {
 		if(acesso == true){
 			System.out.println("Acesado");
 			}
+		else {
+			System.out.println("vaza");
+		}
 		}
 	}
